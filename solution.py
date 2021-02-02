@@ -8,7 +8,7 @@ def welcome_assignment_answers(question):
     if question == "Are encoding and encryption the same? - Yes/No":
         answer = "Yes"
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
-        answer = "Yes"
+        answer = "No"
 
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         answer = "No"
@@ -25,10 +25,10 @@ def welcome_assignment_answers(question):
         answer = "Yes"
 
     elif question ==  "What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number":
-        answer = "One"
+        answer = 1
 
     elif question == "What layer of the TCP/IP model the protocol TCP belongs to? - The answer should be a numeric number":
-        answer = "Four"
+        answer = 2
     return (answer)
 
 
