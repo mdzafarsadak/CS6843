@@ -5,7 +5,7 @@ def welcome_assignment_answers(question):
         answer = "Yes"
 
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
-        answer = "No"
+        answer = "no"
 
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         answer = "No"
