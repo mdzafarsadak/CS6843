@@ -1,6 +1,6 @@
 def welcome_assignment_answers(question):
     if question == "Are encoding and encryption the same? - Yes/No":
-        answer = "No"
+        answer = "Yes"
 
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
         answer = "No"
