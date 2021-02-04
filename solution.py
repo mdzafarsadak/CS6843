@@ -1,4 +1,4 @@
-ef welcome_assignment_answers(question):
+def welcome_assignment_answers(question):
     if question == "Are encoding and encryption the same? - Yes/No":
         answer = "No"
 
